@@ -259,6 +259,14 @@ com\.google\.i18n\.phonenumbers
 org\.chromium\.arc
 org\.chromium\.arc\..*
 
+# OnePlus
+com.oplus.*
+net.oneplus.*
+oplus.*
+vendor.oplus.*
+com.oneplus.*
+vendor.oneplus.*
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface
